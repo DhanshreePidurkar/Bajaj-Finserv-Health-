@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 17.0.10
+Main-Class: DestinationHashGenerator
+Created-By: Maven Integration for Eclipse
+
